@@ -15,7 +15,9 @@
   max-width: 1440px;
   margin: 0 auto;
 }
-
+.arch-logo {
+  max-width:97px;
+}
 header,
 ul {
   display: flex;
